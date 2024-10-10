@@ -27,7 +27,7 @@ Welcome to the **To-Do List Application**, an efficient task management tool bui
 ## Installation:
 1. Clone this repository to your local machine using:
    ```
-   git clone https://github.com/your-username/todo-list-app.git
+   https://github.com/Prakash20162002/Optifyx_Techlogy-_Task1_TODO-LIST.git
    ```
 2. Open the project in Android Studio.
 3. Build and run the app on an Android device or emulator.
